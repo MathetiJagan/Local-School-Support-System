@@ -137,6 +137,8 @@ http://localhost/local-school-support-system
 - View applications
 - Manage opportunities
 
+![Project Overview](https://github.com/MathetiJagan/Local-School-Support-System/blob/main/Screenshot%202026-03-30%20101157.png?raw=true)
+
 ### Volunteer Dashboard
 
 - Browse opportunities
@@ -146,6 +148,8 @@ http://localhost/local-school-support-system
 ### Database
 
 - MySQL database managed through phpMyAdmin
+
+![Dashboards & Database](https://github.com/MathetiJagan/Local-School-Support-System/blob/main/Screenshot%202026-03-30%20101220.png?raw=true)
 
 ---
 
